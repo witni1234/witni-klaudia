@@ -1,0 +1,254 @@
+.container{
+    width: 90%;
+    height: 1000px;
+   /*background-color: gray;*/
+    margin: auto;
+}
+.logo{
+    width: 100%;
+    height: 100px;
+    /*background-color: white;*/
+    display: flex;
+    justify-content: space-between;
+}
+.gbr{
+    width: 100px;
+    height: 100px;
+   /* background-color: black;*/
+}
+.sosmed{
+    width: 200px;
+    height: 100px;
+   /* background-color: black;*/
+}
+.menu{
+    width: 100%;
+    height: 50px;
+   background-color: green;
+    display: flex;
+    align-items: center;
+}
+.beranda{
+    width: 100px;
+    height: 50px;
+    /*background-color: red;*/
+}
+.layanan{
+    width: 100px;
+    height: 50px;
+   /* background-color: orange;*/
+}
+.kontak-menu{
+    width: 200px;
+    height: 50px;
+   /* background-color: yellow;*/
+}
+.email{
+    width: 100px;
+    height: 50px;
+    /*background-color: green;*/
+}
+.promosi-menu{
+    width: 200px;
+    height: 50px;
+    /*background-color: pink;*/
+}
+.arsib{
+    width: 100px;
+    height: 50px;
+   /* background-color: brown;*/
+}
+.gambar-utama{
+    width: 100%;
+    height: 200px;
+    /*background-color: aqua;*/
+    display: flex;
+    /*justify-content: center;*/
+}
+.text-promosi{
+    width: 70%;
+    height: 200px;
+   /* background-color: yellowgreen;*/
+}
+.gambar-promosi{
+    width: 30%;
+    height: 200px;
+    /*background-color: blue;*/
+}
+.kontak{
+    width: 90%;
+    height: 60px;
+   background-color: yellow;
+    margin: auto;
+    display: flex;
+    justify-content:space-between;
+}
+.kontak-wa{
+    width: 30%;
+    height: 60px;
+    /*background-color: hotpink;*/
+}
+.pengiriman{
+    width: 30%;
+    height: 60px;
+    /*background-color: violet;*/
+}
+.pembayaran{
+    width: 30%;
+/*    background-color: brown;*/
+}
+.promosi{
+    width: 90%;
+    height: 200px;
+    /*background-color: black;*/
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.harga-buku1{
+    width: 30%;
+    height: 200px;
+   /* background-color: red;*/
+}
+.harga-buku2{
+    width: 30%;
+    height: 200px;
+    /*background-color: yellow;*/
+}
+.harga-buku3{
+    width: 30%;
+    height: 200px;
+    /*background-color: blue;*/
+}
+.pemesanan{
+    width: 30%;
+    height: 50px;
+    background-color: skyblue;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.ref-book{
+    width: 38%;
+    height: 45px;
+    /*background-color: green;*/
+}
+.e-book{
+    width: 24%;
+    height: 45px;
+   /* background-color: red;*/
+}
+.text-book{
+    width: 34%;
+    height: 45px;
+    /*background-color: red;*/
+}
+.daftar-harga{
+    width: 90%;
+    height: 200px;
+   /* background-color: black;*/
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.jenis-buku1{
+    width: 19%;
+    height: 200px;
+   /* background-color: red;*/
+}
+.jenis-buku2{
+    width: 19%;
+    height: 200px;
+   /* background-color: orange;*/
+}
+.jenis-buku3{
+    width: 19%;
+    height: 200px;
+    /*background-color: yellow;*/
+}
+.jenis-buku4{
+    width: 19%;
+    height: 200px;
+    /*background-color: skyblue;*/
+}
+.jenis-buku5{
+    width: 19%;
+    height: 200px;
+    /*background-color: violet;*/
+}
+.alamat{
+    width: 100%;
+    height: 140px;
+    background-color: green;
+ 
+}
+.pragraf-text{
+    width: 100%;
+    height: 70px;
+   /* background-color: yellow;*/
+}
+.pragraf-gambar{
+    width: 100%;
+    height: 70px;
+   /* background-color: skyblue;*/
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+}
+.aneka-buku{
+    width: 100%;
+    height: 200px;
+}
+.buku1{
+    width: 100%;
+    height: 200px;
+}
+.buku2{
+    width: 100%;
+    height: 200px;
+}
+.buku3{
+    width: 100%;
+    height: 200px;
+}
+.buku4{
+    width: 100%;
+    height: 200px;
+}
+.buku5{
+    width: 100%;
+    height: 200px;
+}
+.book1{
+    width: 50%;
+    height: 200px;
+}
+.book2{
+    width: 50%;
+    height: 200px;
+}
+.book3{
+    width: 50%;
+    height: 200px;
+}
+.text1{
+    text-align: center;
+}
+.text-menu{
+    text-align: center;
+}
+.tempat-pemesanan{
+    text-align: center;
+}
+.kota{
+    text-align: center;
+}
+.wa{
+    text-align: center;
+}

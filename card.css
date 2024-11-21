@@ -1,0 +1,38 @@
+.card{
+    width: 200px;
+    height: 400px;
+    background-color: gray;
+}
+.gbr{
+    width: 100%;
+    height: 200px;
+    background-color: wheat;
+}
+.info-brg{
+    width: 100%;
+   /* height: 50px;*/
+    background-color: red;
+}
+.keterangan-brg{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+.ket-harga{
+    width: 100%;
+    height: 50px;
+    background-color: darkblue;
+}
+.susu{
+    widows: 100%;
+    height: 200px;
+}
+p{
+    color: white;
+    text-align: right;
+    font-size: 14pt;
+}
+.deskrip{
+    color: black;
+    text-align: left;
+}

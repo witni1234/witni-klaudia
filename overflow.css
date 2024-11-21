@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.putih{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    z-index: 999;
+    position: fixed;
+}
+.kotak{
+    width: 500px;
+    height: 1000px;
+    background-color: gray;
+    margin: auto;
+    overflow: auto;
+    padding-top: 100px;
+}
+.isi{
+    width: 450px;
+    height: 500px;
+    background-color: black;
+    margin: auto;
+    margin-top: 5px;
+}
+.gambar{
+    width: 450px;
+    height: 500px;
+}
